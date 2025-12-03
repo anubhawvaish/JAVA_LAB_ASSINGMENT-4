@@ -80,11 +80,11 @@ Runs the menu and controls the entire system.
 
 Each record is stored as:
 
-rollNo,name,email,course,marks
+rollNo,name,email,course,marks,garde
 
 Example:
 
-101,Rohan,rohan@mail.com,B.Tech,82.5 102,Neha,neha@mail.com,BCA,91.0
+101,Rahul,rahul@mail.com,B.Tech,85,b
 
 ▶️ How to Run
 
@@ -130,4 +130,4 @@ Persistent storage handling
 
 👨‍💻 Author
 
-Your Name Aryaveer Singh 2401010273 B.Tech CSE K.R. Mangalam University
+Your Name Anubhaw Vaish 2401010218 B.Tech CSE K.R. Mangalam University
